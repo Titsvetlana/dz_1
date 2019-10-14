@@ -1,0 +1,27 @@
+*{
+	margin-bottom: 30px;
+	font-family: Arial, sans-serif;
+}
+body{
+	background-color: #DCDCDC;
+}
+h2{
+    position: relative;
+    left: 30%;
+    color: #4B0082;
+}
+.act, .prologue, .place{
+	color: #778899;
+}
+.text{
+	width: 225px;
+	font-size: small;
+}
+.italic{
+	font-style: italic;
+	font-size: small;
+}
+.z1{
+    width: 300px;
+}
+
